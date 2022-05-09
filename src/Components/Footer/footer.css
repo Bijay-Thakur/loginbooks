@@ -1,0 +1,21 @@
+.footerSection{
+    background-color: black;
+    padding-bottom: 2%;
+}
+.footerrow{
+    display: flex;
+    justify-content: center;
+    padding-top:2%;
+}
+.footercol{
+    display: flex;
+    justify-content: center;  
+    color:white;  
+}
+.sitemapcol{
+    height:0%!important;
+}
+.contactCol{
+    padding:0;
+    height:0%;
+}

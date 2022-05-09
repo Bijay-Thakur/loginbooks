@@ -1,0 +1,25 @@
+.secondsection{
+    display: flex;
+    width:100%;
+    /* background-color: white; */
+    color:black;
+    align-items: center;
+    margin-top:3%;
+}
+.image img{
+    object-fit: cover;
+    margin-left: 10%;
+}
+.sub-title{
+    color:rgba(0,0,0,0.5)
+}
+.read-more-btn{
+/* height:50px;
+width:80px; */
+border-radius:20px;
+padding:5px 10px 5px 10px;
+box-shadow: -4px 2px 13px 6px grey;
+background-color: #2596be;
+margin-top:3%;
+margin-bottom:3%;
+}

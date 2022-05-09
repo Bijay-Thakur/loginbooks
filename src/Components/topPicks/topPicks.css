@@ -1,0 +1,38 @@
+.top-picks{
+    background-color: #2596be;
+    padding-top:3%;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    color:white;
+   
+
+}
+.sub-heading{
+    /* color:rgba(255s,255,255,0.9); */
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+
+.bookitem{
+    display: flex;
+    justify-content: center;
+}
+.owl-carousel .owl-item img{
+    object-fit: cover;
+}
+.item{
+    height:300px;
+    width:300px;
+}
+.owl-carousel .owl-stage-outer{
+    margin-left:7%;
+}
+.card-body{
+    background-color: #2596be;
+}
+.card{
+    border-color:transparent!important;
+}

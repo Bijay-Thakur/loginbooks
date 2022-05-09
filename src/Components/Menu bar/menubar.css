@@ -1,0 +1,28 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.55);
+    margin-left: 57px;
+}
+.search{
+    margin-left:80px;
+}
+.right-nav{
+    display: flex;
+    color:white;
+}
+.right-nav .nav-link{
+    color:white;
+}
+.right-nav .login{
+    background-color: white;
+    color: blue;
+  padding: 7px;
+    /* height: 48px;
+    width: 66px; */
+    border-radius: 10px;
+    font-weight: bold
+}
+.btn-primary{
+    border-color:white;
+    color:white;
+    background-color:transparent;
+}
